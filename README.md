@@ -1,6 +1,6 @@
 # YouTube_Channel_Performance_Analysis
 Introduction-
-This project showcases a YouTube Channel Performance Dashboard that highlights key metrics such as total videos, subscribers, revenue, and average view duration. It visualises insights on top revenue-generating videos, playlist watch time, engagement (likes, comments, shares), and daily monetised playbacks versus ad impressions. The dashboard also tracks CPM trends, revenue per 1000 views, and thumbnail CTR to provide a comprehensive view of channel growth and monetisation performance.
+ This project showcases a YouTube Channel Performance Dashboard that highlights key metrics such as total videos, subscribers, revenue, and average view duration. It visualises insights on top revenue-generating videos, playlist watch time, engagement (likes, comments, shares), and daily monetised playbacks versus ad impressions. The dashboard also tracks CPM trends, revenue per 1000 views, and thumbnail CTR to provide a comprehensive view of channel growth and monetisation performance.
 Tech Stack
 The dashboard was built using the following tools and technologies:
 - 📊 Power BI Desktop – Main data visualisation platform used for creating interactive reports and dashboards.
@@ -24,4 +24,5 @@ Daily Monetised Playbacks vs Ad Impressions – Bar chart comparing the number o
 Likes, Comments & Shares Overview – Donut chart displaying engagement distribution to understand audience interaction.
 Thumbnail CTR (%) per Video ID – Bar chart showing how effective thumbnails are in attracting viewers to click.
 Screenshot of Dashboard
+https://github.com/jayantibanik/YouTube_Channel_Performance_Analysis/blob/main/Snapshot_of_Youtube_Dashboard.png
 
