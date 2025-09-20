@@ -23,6 +23,6 @@
 - Daily Monetised Playbacks vs Ad Impressions – Bar chart comparing the number of ads shown versus how many were monetised daily.
 - Likes, Comments & Shares Overview – Donut chart displaying engagement distribution to understand audience interaction.
 - Thumbnail CTR (%) per Video ID – Bar chart showing how effective thumbnails are in attracting viewers to click.
-** - Screenshot of Dashboard**
+**- Screenshot of Dashboard**
 https://github.com/jayantibanik/YouTube_Channel_Performance_Analysis/blob/main/Snapshot_of_Youtube_Dashboard.png
 
